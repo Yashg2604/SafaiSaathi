@@ -1,0 +1,107 @@
+<a href="https://github.com/Yashg2604/SafaiSaathi">
+<p align="center">
+  <img src="./public/safaisaathilogo.png" height="180px"/>
+  </a>
+<br/>
+  <h3 align="center">SafaiSaathi</h3>
+
+
+
+
+<div align="center" >
+
+  </div>
+
+  <p align="center">
+     An app for waste classification and easy disposal
+    <br/>
+    <br/>
+    <a href="">View Demo</a>
+  </p>
+</p>
+
+
+
+## Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Host your own](#host-your-own)
+- [Contributing](#contributing)
+  - [Creating A Pull Request](#creating-a-pull-request)
+- [Raising an issue](#raising-an-issue)
+- [Code of conduct](#code-of-conduct)
+- [License](#license)
+- [Authors](#authors)
+
+## About The Project
+![image](https://github.com/Yashg2604/SafaiSaathi/blob/main/src/assets/homescreen.png)
+
+
+SafaiSaarthi is an app designed to streamline waste management. Developed during the AI Manthan Hackathon, hosted by IIIT-D.
+
+
+
+
+## Built With
+
+* [NextJs](https://nextjs.org)
+* [Bun](https://bun.sh/)
+* [NextJS](https://nextjs.org)
+* [TailwindCss](https://tailwindcss.com/)
+* [MongoDb](https://www.mongodb.com/)
+* [GoogleMaps](https://www.google.com/maps/)
+* [Gemini](https://gemini.google.com/)
+
+
+
+## Getting Started
+
+
+### Prerequisites
+
+<a href="https://git-scm.com/downloads" >Git</a> is a distributed version control system used for software development. It allows multiple developers to work on the same codebase simultaneously, keeping track of changes and managing versions. It also enables users to revert changes and collaborate more effectively.
+
+<a href="https://bun.sh/">Bun</a> is a JavaScript runtime, package manager, test runner bundler built from scratch using the Zig programming language. It was designed by Jarred Sumner as a drop-in replacement for Node.js. Bun uses JavaScriptCore as the JavaScript engine, unlike Node.js and Deno, which both use V8.
+
+<a href="https://developers.google.com/maps/documentation/javascript/get-api-key">GoogleMaps Api key</a>
+
+<a href="https://makersuite.google.com/app/apikey">Gemini Api Key</a> 
+
+
+### Installation
+
+
+<h3> This project utilises <a href="https://bun.sh">Bun</a>. Install it before running locally</h3>
+
+```bash
+git clone https://github.com/Yashg2604/SafaiSaathi
+```
+```bash
+cd SafaiSaathi
+```
+```bash
+cp .env.example .env
+```
+<h3>Fill the required fields inside the .env before starting the server </h3>
+
+```bash
+bun install
+```
+```bash
+bun dev
+```
+This will start the development server  at http://localhost:3000/
+
+## Host your own
+* ## Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShivaBhattacharjee%2FWasteEasy)
+<br/>
+<br/>
+
+# SafaiSaathi
