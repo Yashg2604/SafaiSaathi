@@ -1,3 +1,5 @@
+# SafaiSaathi
+
 <a href="https://github.com/Yashg2604/SafaiSaathi">
 <p align="center">
   <img src="./public/safaisaathilogo.png" height="180px"/>
@@ -108,4 +110,4 @@ bun dev
 ```
 This will start the development server  at http://localhost:3000/
 
-# SafaiSaathi
+
