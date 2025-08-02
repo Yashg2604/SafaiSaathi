@@ -31,20 +31,28 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Host your own](#host-your-own)
-- [Contributing](#contributing)
-  - [Creating A Pull Request](#creating-a-pull-request)
-- [Raising an issue](#raising-an-issue)
-- [Code of conduct](#code-of-conduct)
-- [License](#license)
-- [Authors](#authors)
 
 ## About The Project
 ![image](https://github.com/Yashg2604/SafaiSaathi/blob/main/src/assets/homescreen.png)
 
 
-SafaiSaarthi is an app designed to streamline waste management. Developed during the AI Manthan Hackathon, hosted by IIIT-D.
+SafaiSaathi is an app designed to streamline waste management. Developed during the AI Manthan Hackathon, hosted by IIIT-D.  
+
+This application is focused on making waste disposal easier through classification, user guidance, and innovative features such as a fine-tuned AI chatbot and voice-enabled interactions.
 
 
+## Features
+
+- **Gemini-powered chatbot**  
+  - Multilingual support for user queries.  
+  - Fine-tuned for accurate and context-aware responses to waste management questions.  
+
+- **VoiceX voice interaction system**  
+  - Uses **Sarvam API** for Automatic Speech Recognition (ASR) to convert voice input into text.  
+  - Uses **Gemini** to generate natural voice responses from the ASR transcripts, enabling smooth conversational experiences.
+
+- **Waste classification and disposal guidance**  
+  - Helps users identify the correct category of waste.  
 
 
 ## Built With
@@ -56,7 +64,8 @@ SafaiSaarthi is an app designed to streamline waste management. Developed during
 * [MongoDb](https://www.mongodb.com/)
 * [GoogleMaps](https://www.google.com/maps/)
 * [Gemini](https://gemini.google.com/)
-
+* [Gemini](https://gemini.google.com/) *(Chatbot engine & text-to-speech)*  
+* [Sarvam API](https://sarvam.ai/) *(ASR – Automatic Speech Recognition)*  
 
 
 ## Getting Started
@@ -71,6 +80,8 @@ SafaiSaarthi is an app designed to streamline waste management. Developed during
 <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">GoogleMaps Api key</a>
 
 <a href="https://makersuite.google.com/app/apikey">Gemini Api Key</a> 
+
+<a href="https://sarvam.ai/">Sarvam API Key</a>  
 
 
 ### Installation
