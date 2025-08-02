@@ -16,7 +16,7 @@
      An app for waste classification and easy disposal
     <br/>
     <br/>
-    <a href="">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=cXuOT-GMIVg">View Demo</a>
   </p>
 </p>
 
@@ -107,12 +107,5 @@ bun install
 bun dev
 ```
 This will start the development server  at http://localhost:3000/
-
-## Host your own
-* ## Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShivaBhattacharjee%2FWasteEasy)
-<br/>
-<br/>
 
 # SafaiSaathi
